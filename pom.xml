@@ -48,6 +48,11 @@
 		</dependency>
 
 
+		<dependency>
+			<groupId>spring.libros</groupId>
+			<artifactId>ReservaLibros</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
